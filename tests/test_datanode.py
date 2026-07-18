@@ -72,3 +72,4 @@ def test_list_blocks(tmp_path):
     assert len(blocks) == 2
     assert "block_0001" in blocks
     assert "block_0002" in blocks
+    

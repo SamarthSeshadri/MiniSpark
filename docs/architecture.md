@@ -6,7 +6,7 @@ The purpose of this project is not to recreate Hadoop feature-for-feature, but t
 
 ---
 
-# Sprint 1 – Block
+# Sprint 1 - Block
 
 ## Problem
 
@@ -80,7 +80,7 @@ The block should always compute its size dynamically.
 
 ---
 
-# Sprint 2 – BlockManager
+# Sprint 2 - BlockManager
 
 ## Problem
 
